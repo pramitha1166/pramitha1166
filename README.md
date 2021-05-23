@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://www.springboard.com/library/static/b3e84a84e1cc5ad222ac62dac3855f6d/c1b63/08-06-_-banner.png" height="200"/>
 </p>
 <br>
 
@@ -42,9 +42,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I’m currently Developing a Ecommerce Enterprise Web Apllication<br>
+✔ I’m currently learning about **Native mobile app development**🥰<br>
+✔ I’m looking to collaborate with any **Open - Enterprise Web Project**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
